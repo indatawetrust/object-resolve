@@ -1,0 +1,27 @@
+{
+  "name": "object-resolve",
+  "version": "0.0.1",
+  "description": "Promise resolver for the objects Edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/object-resolve.git"
+  },
+  "keywords": [
+    "promise",
+    "resolver",
+    "object"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indatawetrust/object-resolve/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/object-resolve#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
